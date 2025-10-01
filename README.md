@@ -1,4 +1,4 @@
-Project:Cat vs Dog Image Classification using CNN
+Project : Cat vs Dog Image Classification using CNN
 
 1. Problem Statement :
  The project is about building a machine learning model that can automatically classify images into two categories: Cat or Dog. Instead of humans looking at an image and saying
